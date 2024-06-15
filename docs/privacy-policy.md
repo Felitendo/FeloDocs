@@ -1,6 +1,6 @@
 ---
 id: privacy-policy
-title: Datenschutzerklärung / Privacy Policy
+title: Felobot-DC Privacy Policy
 ---
 
 import Tabs from '@theme/Tabs';
