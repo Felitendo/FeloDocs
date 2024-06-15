@@ -1,12 +1,12 @@
 ---
-id: felobot-dc-privacy-policy
-title: Felobot-DC Privacy Policy
+id: privacy-policy
+title: Privacy Policy
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Felobot-DC Privacy Policy
+# Privacy Policy
 
 <Tabs>
 <TabItem value="de" label="Deutsch" default>
