@@ -22,8 +22,8 @@ Willkommen bei Felo Docs. Hier kannst du die Seiten bearbeiten und ein Pull Requ
 
 
 
-Von Docusaurus:
-# Website
+# Von Docusaurus:
+## Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
