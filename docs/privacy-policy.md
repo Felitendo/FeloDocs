@@ -1,5 +1,5 @@
 ---
-id: privacy-policy
+id: felobot-dc-privacy-policy
 title: Felobot-DC Privacy Policy
 ---
 
