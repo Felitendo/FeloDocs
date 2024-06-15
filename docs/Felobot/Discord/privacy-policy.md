@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 # Privacy Policy
 
 <Tabs>
-<TabItem value="de" label="Deutsch" default>
+<TabItem value="de" label="German" default>
 
 ## Datenschutzerklärung für Felobot
 
